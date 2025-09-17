@@ -1,2 +1,2 @@
-# Base de datos: Evidencia 2
+# Base de datos: Proyecto 2
 Este repositorio contiene un dump SQL de la base de datos.
